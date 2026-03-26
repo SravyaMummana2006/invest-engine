@@ -1,5 +1,5 @@
 # 📊 Intelligent Investment Decision Engine
-
+[Live Demo](https://invest-engine.streamlit.app/)
 > A fintech-grade investment analysis system that models inflation, simulates market scenarios, and generates personalised portfolio recommendations — built as a production-quality Python + Streamlit application.
 
 ---
